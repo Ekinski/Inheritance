@@ -12,4 +12,19 @@ A char calculate() method that calculates a Student object's average and returns
 
 https://s3.amazonaws.com/hr-challenge-images/17165/1458142706-3073bc9143-Grading.png
 
+Output Format
+
+This is handled by the locked stub code in your editor. Your output will be correct if your Student class constructor and calculate() method are properly implemented.
+
+Sample Input
+
+Heraldo Memelli 8135627
+2
+100 80
+Sample Output
+
+ Name: Memelli, Heraldo
+ ID: 8135627
+ Grade: O
+
 Hackerrank challenge: https://www.hackerrank.com/challenges/30-inheritance/problem?h_r=next-challenge&h_v=zen
